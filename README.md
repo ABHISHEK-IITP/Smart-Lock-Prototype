@@ -24,3 +24,14 @@
 8. Batteries - 2*9V LiPo and Power Bank.  
 
 <br  />
+
+Libraries Used  
+  
+📕  MFRC RC5222 RFID Library  -  Arduino IDE Library Manager  
+
+📕  NTP Client Library  - Arduino IDE Library Manager  
+
+📕  SPI library - Library for RC522 RFID reader
+
+📕  HTTP Client Library - Required for HTTP POST/GET request, functions
+  
