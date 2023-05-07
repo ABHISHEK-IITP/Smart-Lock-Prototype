@@ -1,6 +1,6 @@
 # Smart-Lock-Prototype
 
-
+<img src="/images/circuit.jpg" height="250" >
 <br  />
 
 📷 About Project -  
